@@ -1,0 +1,1 @@
+module.exports = require("@tanmay/configs/tailwind/tailwind.config");
